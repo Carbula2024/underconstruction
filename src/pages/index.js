@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>En construccion</title>
+        <title>En construcción</title>
         <meta name="description" content="en construccion" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
